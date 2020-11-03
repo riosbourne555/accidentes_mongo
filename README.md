@@ -24,7 +24,7 @@
 
 A continuación se muestra el diagrama de la arquitectura tipo API Rest de la aplicación.
 
-![alt text](https://github.com/riosbourne555/accidentes_elastic/blob/master/src/main/resources/img/spring-boot-mongodb.png)
+![alt text](https://github.com/riosbourne555/accidentes_mongo/blob/master/src/main/resources/static/spring-boot-mongodb.png)
 
 1. Devolver todos los accidentes ocurridos entre 2 fechas dadas
     * endpoint: http://localhost:9090/api/from/{fecha1}/to/{fecha2}
@@ -42,4 +42,4 @@ A continuación se muestra el diagrama de la arquitectura tipo API Rest de la ap
 5. Obtener la distancia promedio desde el inicio al fin del accidente
     * endpoint: http://localhost:9090/api/DistanciaPromedio
 
-# grupo del proyecto: Cristian Emmanuel Rios, Emmanuel Portugal.
+### Integrantes del proyecto: Cristian Emmanuel Rios, Emmanuel Portugal.
